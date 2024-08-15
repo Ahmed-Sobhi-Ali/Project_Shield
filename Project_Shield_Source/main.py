@@ -1,3 +1,25 @@
+"""
+Project Shield
+
+Author: Ahmed Sobhi Ali - Penetration Tester | Cybersecurity Professional | Specialist in Cryptography & Encryption Systems
+
+Warning:
+- This program is designed for use by individuals with a strong understanding of cryptography, data security, and software engineering.
+- Improper use of this software could lead to data loss or other serious consequences.
+- If you are not a specialist or do not fully understand the functionalities and implications of this system, please do not use it.
+- Ensure that you are well-acquainted with the workings of the software and its components before proceeding.
+
+Description:
+- Project Shield is a comprehensive data protection system designed to enhance data security by focusing on data integrity and confidentiality.
+- It includes components for authentication, encryption, data shredding, data integrity checks, and log monitoring.
+- The system leverages advanced cryptographic techniques and ensures robust protection for sensitive information.
+
+For detailed documentation and usage instructions, please refer to the README file and accompanying documentation.
+
+"""
+
+
+
 import os
 import time
 from pathlib import Path
