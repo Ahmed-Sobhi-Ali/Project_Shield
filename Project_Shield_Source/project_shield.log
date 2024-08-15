@@ -1,0 +1,33 @@
+2024-08-15 01:04:20,662 - ahmed_sobhi - INFO - Displaying welcome message
+2024-08-15 01:04:22,662 - ahmed_sobhi - INFO - Starting authentication process
+2024-08-15 01:04:29,968 - ahmed_sobhi - INFO - User attempted authentication
+2024-08-15 01:04:29,969 - ahmed_sobhi - INFO - User password is correct
+2024-08-15 01:04:29,969 - ahmed_sobhi - INFO - Checking for existing database file
+2024-08-15 01:04:29,970 - ahmed_sobhi - INFO - New user detected, creating database
+2024-08-15 01:04:32,980 - ahmed_sobhi - INFO - Generating secret credentials
+2024-08-15 01:04:33,983 - ahmed_sobhi - INFO - Saving credentials into database
+2024-08-15 01:04:40,936 - ahmed_sobhi - INFO - Database encrypted successfully
+2024-08-15 01:04:41,936 - ahmed_sobhi - INFO - Generating file hashes
+2024-08-15 01:04:51,159 - ahmed_sobhi - INFO - System setup complete
+2024-08-15 01:04:57,022 - ahmed_sobhi - INFO - User selected operation 1
+2024-08-15 01:04:57,022 - ahmed_sobhi - INFO - User chose encryption
+2024-08-15 01:04:59,427 - ahmed_sobhi - INFO - Files encrypted successfully
+2024-08-15 01:05:13,613 - ahmed_sobhi - INFO - User selected operation 2
+2024-08-15 01:05:13,613 - ahmed_sobhi - INFO - User chose decryption
+2024-08-15 01:05:15,987 - ahmed_sobhi - INFO - Files decrypted successfully
+2024-08-15 01:05:35,965 - ahmed_sobhi - INFO - User selected operation 5
+2024-08-15 01:05:35,965 - ahmed_sobhi - INFO - User chose to quit the program
+2024-08-15 01:05:38,755 - ahmed_sobhi - INFO - Displaying welcome message
+2024-08-15 01:05:40,756 - ahmed_sobhi - INFO - Starting authentication process
+2024-08-15 01:05:48,216 - ahmed_sobhi - INFO - User attempted authentication
+2024-08-15 01:05:48,217 - ahmed_sobhi - INFO - User password is correct
+2024-08-15 01:05:48,217 - ahmed_sobhi - INFO - Checking for existing database file
+2024-08-15 01:05:48,218 - ahmed_sobhi - INFO - Database file exists, starting process
+2024-08-15 01:05:58,383 - ahmed_sobhi - INFO - Database decrypted successfully
+2024-08-15 01:05:59,385 - ahmed_sobhi - INFO - System is ready for operations
+2024-08-15 01:06:00,386 - ahmed_sobhi - INFO - Generating file hashes for integrity check
+2024-08-15 01:06:17,546 - ahmed_sobhi - INFO - User selected operation 3
+2024-08-15 01:06:17,546 - ahmed_sobhi - INFO - User chose deleting files
+2024-08-15 01:06:24,760 - ahmed_sobhi - INFO - Files deleted securely
+2024-08-15 01:06:26,981 - ahmed_sobhi - INFO - User selected operation 5
+2024-08-15 01:06:26,981 - ahmed_sobhi - INFO - User chose to quit the program
